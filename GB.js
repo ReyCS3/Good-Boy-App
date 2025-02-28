@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const button = document.querySelector('button');
     
     // Create a new Audio object.
-    // Replace 'path/to/your/audio.mp3' with the actual file path or URL of your audio file.
     const audio = new Audio('LunaSnowGoodBoy.mp3');
   
     // Add a click event listener to the button that plays the audio.
